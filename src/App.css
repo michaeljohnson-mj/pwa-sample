@@ -1,0 +1,28 @@
+.container {
+  margin: 30px;
+}
+
+.header {
+  height: 70px;
+  background-color: #832625;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  padding: 0px 20px;
+}
+
+.header > h1 {
+  font-style: italic;
+  color: #ffffff;
+  margin: 0px;
+}
+
+.checkbox-text-holder {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.submit-btn {
+  margin-top: 20px;
+}
